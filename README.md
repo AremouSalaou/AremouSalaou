@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AremouSalaou
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on software project 
 - 📫 How to reach me at salaremou@hotmail.com
 
